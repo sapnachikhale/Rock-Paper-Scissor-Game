@@ -1,0 +1,17 @@
+{
+    "name": "html-css-js-project",
+    "version": "1.0.0",
+    "description": "Rock Paper Scissor Game",
+    "main": "index.html",
+    "scripts": {
+      "start": "live-server --open=./index.html",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Sapna Chikhale",
+    "license": "ISC",
+    "devDependencies": {
+      "live-server": "^1.2.1"
+    }
+  }
+  
